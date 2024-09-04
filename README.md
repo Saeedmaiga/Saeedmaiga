@@ -2,7 +2,7 @@
 - 👀 I’m interested in algorithms, databases, full-stack, ML and ios development
 - 🌱 I'm consistently trying to learn how to use engineering to solve problem.
 - 💞️ I’m looking to collaborate on open source projects,learn new stuff and love to build
-- 📫 How to reach me on
+- 📫 You can reach me on
   saeedmaiga7@gmail.com
   
 
